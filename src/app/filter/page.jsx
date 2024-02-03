@@ -10,7 +10,7 @@ const page = async () => {
       {/* Left */}
       <div className="flex w-full flex-col gap-5  ">
         {/* Filtering Actions */}
-        <div>asdasd</div>
+        <div>FILTER</div>
 
         {/* Animes */}
         <Animes key="anime-feed" recents />
