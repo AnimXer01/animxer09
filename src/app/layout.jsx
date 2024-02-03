@@ -8,7 +8,7 @@ import Footer from "./Components/Footer";
 const roboto = Roboto_Condensed({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "AnimeSensei",
+  title: "ANIMXER",
   description: "All Your Favorite Anime In One Site.",
 };
 
